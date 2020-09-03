@@ -1,6 +1,4 @@
-FREE CODE CAMP
-Responsive Web Design Project
-Tribute Page
+FREE CODE CAMP - RESPONSIVE WEB DESIGN PROJECT - TRIBUTE PAGE
 
 OBJECTIVE
     Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
